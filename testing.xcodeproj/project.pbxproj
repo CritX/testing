@@ -14,6 +14,7 @@
 		E11CCB9A1CECA9E7009B5AEB /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = E11CCB981CECA9E7009B5AEB /* LaunchScreen.storyboard */; };
 		E11CCBA51CECA9E7009B5AEB /* testingTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = E11CCBA41CECA9E7009B5AEB /* testingTests.swift */; };
 		E11CCBB01CECA9E8009B5AEB /* testingUITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = E11CCBAF1CECA9E8009B5AEB /* testingUITests.swift */; };
+		E11CCBBE1CECAD8A009B5AEB /* photo.jpg in Resources */ = {isa = PBXBuildFile; fileRef = E11CCBBD1CECAD8A009B5AEB /* photo.jpg */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -47,6 +48,7 @@
 		E11CCBAB1CECA9E7009B5AEB /* testingUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = testingUITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		E11CCBAF1CECA9E8009B5AEB /* testingUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = testingUITests.swift; sourceTree = "<group>"; };
 		E11CCBB11CECA9E8009B5AEB /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		E11CCBBD1CECAD8A009B5AEB /* photo.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; name = photo.jpg; path = ../../../Downloads/photo.jpg; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -103,6 +105,7 @@
 				E11CCB961CECA9E7009B5AEB /* Assets.xcassets */,
 				E11CCB981CECA9E7009B5AEB /* LaunchScreen.storyboard */,
 				E11CCB9B1CECA9E7009B5AEB /* Info.plist */,
+				E11CCBBD1CECAD8A009B5AEB /* photo.jpg */,
 			);
 			path = testing;
 			sourceTree = "<group>";
@@ -231,6 +234,7 @@
 			files = (
 				E11CCB9A1CECA9E7009B5AEB /* LaunchScreen.storyboard in Resources */,
 				E11CCB971CECA9E7009B5AEB /* Assets.xcassets in Resources */,
+				E11CCBBE1CECAD8A009B5AEB /* photo.jpg in Resources */,
 				E11CCB951CECA9E7009B5AEB /* Main.storyboard in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
